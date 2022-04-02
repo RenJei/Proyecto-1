@@ -1,0 +1,90 @@
+body {
+    background-color: bisque;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    background-color: aqua;
+    float: left;
+    margin-left: 10px;
+    border-radius: 5px;
+    padding: 0 5px;
+}
+
+.ListaEsmeralda {
+    list-style: none;
+}
+
+.LiEsmeralda {
+    color: rgb(62, 235, 85);
+    float: left;
+    margin-left: 15px;
+    border-radius: 15px;
+    padding: 0 15px;
+   background-color: transparent;
+}
+
+p {
+    color: forestgreen;
+    font-size: 18px;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+}
+
+h2 {
+    color: red;
+}
+
+.Pesme {
+    color: rgb(83, 21, 106);
+}
+
+/* Pokemon Rojo */
+
+.PokeRed {
+    color: black;
+    font-size: 45px;
+}
+
+.PokRed {
+    list-style: none;
+}
+
+.PoRed {
+    color: rgb(100, 62, 235);
+    float: left;
+    margin-left: 20px;
+    border-radius: 20px;
+    padding: 0 20px;
+   background-color: none;
+}
+
+.Pred {
+    color: rgb(44, 245, 144);
+    font-size: 25px;
+}
+
+/* Pokemon Espada */
+
+.PokeEspada {
+    color: blueviolet;
+    font-size: 45px;
+}
+
+.PoEspada {
+    color: rgb(90, 45, 5);
+    font-size: 20px;
+}
+
+/* Pokemon Competitivo */
+
+.Compi {
+    color: firebrick;
+}
